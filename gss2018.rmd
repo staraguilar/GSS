@@ -73,3 +73,8 @@ t.test(EDUC~VOTE16,data=GSSdata)
 ```
 
 The inferential results give us low p value which is the statistical evidence between the education level of people who voted and the people who didn't vote, we can see the mean education level in the group that voted is 15.625 and the mean education level in the group of people who did not vote is 13.680. 
+
+### Discussion and Conclusion
+
+In conclusion people who have a higher education vote more and people who have a lower education vote less with people who voted having a mean education level of 15 and people who did not vote having a mean education level of 13.
+
