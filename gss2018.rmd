@@ -68,3 +68,8 @@ Looking at the numerical results we can see that people who voted have a higher 
 
 <!--State hypothesis clearly.  Make sure your discussion of the inferential test covers all the aspects that the test output produces, such as test statistic, p-value etc.  Make a decision about the null hypothesis, explain the assumptions on which the selected test/procedure was based, and why the chosen procedure satisfys the assumptions and is appropriate to answer the research question!-->
 
+```{r}
+t.test(EDUC~VOTE16,data=GSSdata)
+```
+
+The inferential results give us low p value which is the statistical evidence between the education level of people who voted and the people who didn't vote, we can see the mean education level in the group that voted is 15.625 and the mean education level in the group of people who did not vote is 13.680. 
