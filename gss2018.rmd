@@ -1,7 +1,7 @@
 ---
 title: "General Social Survey"
-author: "Your Name"
-date: "Year 2020"
+author: "Estrella Aguilar"
+date: "Year 2024"
 output: 
   html_document:
     number_sections: true
@@ -53,11 +53,12 @@ First question - Is opinion on the death penalty (CAPPUN) independent of gun own
 
 <!--In this section you explain what you are trying to show.  Where did the data come from?  What is the research or other question you are trying to answer?!-->
 
-Is there a difference in years of education (EDUC) between the those who did or did not vote in 2012 (VOTE12)?
+Is there a difference in years of education (EDUC) between the those who did or did not vote in 2016 (VOTE16)? 
 
 ## Methods
 
 <!--Decide on your methods:  use "variable analysis" or other appropriate descriptors.  Make sure to choose at least one graphical method and at least one numerical method.!-->
+
 
 ##Results
 
