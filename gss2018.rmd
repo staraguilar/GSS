@@ -57,7 +57,11 @@ plot(EDUC~VOTE16,data=GSSdata)
 
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
 
+```{r}
+favstats(EDUC~VOTE16,data=GSSdata)
+```
 
+Looking at the numerical results we can see that people who voted have a higher average education level of 15.625 years and those who did not vote have a lower average education level at 13.7 years. 128 people voted and 50 people did not vote which shows that people who have a higher level of education tend to vote more. 
 
 
 ### Inferential Results
